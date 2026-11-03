@@ -1,10 +1,22 @@
 ---
-title: "ryanszczepanik.github.io"
+title: "Ryan Szczepanik"
+image: Photo/Headshot.jpeg
+toc: false
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ryan-szczepanik
+    - text: GitHub
+      href: https://github.com/rszczepanik28
+    - text: Email
+      href: mailto:rszczepanik28@gmail.com
+
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! I'm Ryan Szczepanik. Professionally, I am pursuing a career in epidemiology, with a focus on applying biomedical research and data analysis skills to contribute to public health initiatives. Outside of work, I'm passionate about discovering and playing music, backpacking, and rooting for all Cleveland sports.
 
 ```{r}
 ```

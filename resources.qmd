@@ -1,0 +1,8 @@
+---
+title: "Resume and Projects"
+editor: visual
+---
+
+## Resume
+
+[Download Resume (PDF)](Resume.pdf){.btn .btn-outline-primary role="button"}

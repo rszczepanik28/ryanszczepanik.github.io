@@ -3,20 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "ryanszczepanik.github.io"
+  title: "Ryan Szczepanik"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resources.qmd
+        text: Experience
+      - href: blog/blog.qmd
+        text: Blog
+     
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: styles.scss
     toc: true
+    page-layout: full
+    mainfont: Andika
 
 
 

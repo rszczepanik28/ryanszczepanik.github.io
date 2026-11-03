@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ryanszczepanik.github.io",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resume and Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Download Resume (PDF)"
+  },
+  {
+    "objectID": "resources.html#resume",
+    "href": "resources.html#resume",
+    "title": "Resume and Projects",
+    "section": "",
+    "text": "Download Resume (PDF)"
+  },
+  {
+    "objectID": "blog/southern-ground-hornbill/index.html",
+    "href": "blog/southern-ground-hornbill/index.html",
+    "title": "Southern Ground Hornbill",
+    "section": "",
+    "text": "A male and female straight chilling on a branch. Intimidating stuff.\n\n\nMy first blog! Although I’m not an expert birder, I find it so interesting how much birds vary around the world. Evolution and natural selection favors these winged egg laying creatures so much that there are over 11,000 species, and they can vary in weight from 0.07 ounces to 350 pounds (shoutout my boy ostrich). Needless to say, there’s always something new to learn about birds, and I’m bringing you - most esteemed reader - some tidbits, facts, and personal opinions about birds to appreciate their uniqueness. I’m starting with one of my favorite birds, the Southern Ground Hornbill. They’re one of my favorites because of their distinct red face and large beak, and because I was lucky enough to see one myself in Kruger National Park in South Africa. For whatever reason, I wanted to see these guys more than any other animal on our safari. So once we spotted a group of them foraging on our last day, my love for these scavengers exploded. The Southern Ground Hornbill is similar in size to a large wild turkey, and it’s the largest hornbill species in the world. They have a set of powerful black wings, but they typically spend their days walking in groups across the savannah hunting small animals or using their massive bills to dig up roots and flip over objects. Their bills are the closest thing they have to a fork and knife, since they typically break apart their food before eating it. A bit more classy than seagulls who swallow their food whole. Their distinctive red faces are more than just show, and are used to make calls and distinguish between males and females. The males have a completely red face, while females have a dark violet patch underneath their bills (take a look at the photo of our aura farming power couple). Their wattle underneath the bill is used to amplify their deep grunting calls for communication. The wattles inflate like a balloon, similar to a frog’s croak. Family groups stay together for a long period of time. A group only lays about two eggs every nine years, and only one of them typically survives into adulthood. Once they reach adulthood, these birds can live up to 70 years in captivity, but even in captivity they aren’t to be messed with. A child entered a Southern Ground Hornbill exhibit this past summer in Milwaukee, promptly getting chased out and swarmed by a group of the stressed out birds (nobody was injured). The Southern Ground Hornbill is super unique - they live in groups, maneuver like predatory mammals, and utilize their characteristic bills in many different ways. Based on my experiences, they seem stoic; they carry themselves like they own the savannah (until a lion wants a delicious bird meal), and their old age comes with some type of bird wisdom that I wish I knew about. Thanks for reading.\n\n\n\nCitationBibTeX citation:@online{szczepanik2026,\n  author = {Szczepanik, Ryan},\n  title = {Southern {Ground} {Hornbill}},\n  date = {2026-11-03},\n  url = {https://ryanszczepanik.github.io/blog/southern-ground-hornbill/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nSzczepanik, Ryan. 2026. “Southern Ground Hornbill.”\nNovember 3. https://ryanszczepanik.github.io/blog/southern-ground-hornbill/."
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Nerd about a Bird",
+    "section": "",
+    "text": "Southern Ground Hornbill\n\n\nNative to Sub-Saharan Africa\n\n\n\nRyan Szczepanik\n\n\nNov 3, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ryan Szczepanik",
+    "section": "",
+    "text": "Hello! I’m Ryan Szczepanik. Professionally, I am pursuing a career in epidemiology, with a focus on applying biomedical research and data analysis skills to contribute to public health initiatives. Outside of work, I’m passionate about discovering and playing music, backpacking, and rooting for all Cleveland sports."
   }
 ]

@@ -1,0 +1,9 @@
+---
+title: "Nerd about a Bird"
+editor: visual
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  sort: "date desc"
+  categories: true
+---
