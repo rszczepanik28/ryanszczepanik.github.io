@@ -4,16 +4,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 // Colors
-$mustard: #d18c28;
-$dijon: #e4b363;
-$cerulean: #45818e;
-$white: #ffffff;
-$gray: #808080;
+$darkgreen: #778779;
+$lightgreen: #ccdcc1;
+$creme: #f1ece2;
+$redmute: #b89789;
 
 // Sass vars
-$navbar-bg: $mustard; 
-$navbar-fg: $dijon; 
-$navbar-hl: $white;
-$body-bg: $cerulean;
-$body-color: $white; 
-$link-color: $gray; 
+$navbar-bg: $darkgreen; 
+$navbar-fg: $creme; 
+$navbar-hl: $lightgreen;
+$body-bg: $redmute;
+$body-color: $creme; 
+$link-color: $lightgreen; 
